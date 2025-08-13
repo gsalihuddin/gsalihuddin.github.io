@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+
+body{
+    background-image:url("image/cf1.jpg");
+    background-size: cover;
+
+}
+
+h1{
+    color:darkgoldenrod;
+    background-color: burlywood;
+    font-size: 100px;
+    border:10px dashed rgb(41, 22, 5);
+    padding:50px;
+    text-align: center;
+    font-family: "DM Serif Text", serif;
+}
+
+p{
+    color:whitesmoke;
+    font-weight: bold;
+    font-style: italic;
+    background-color:burlywood;
+}
+h2{
+    background-color:burlywood;
+    color:whitesmoke;
+    text-decoration: underline;
+}
+li{
+    background-color:burlywood;
+    color:whitesmoke;
+    text-decoration: underline;
+}

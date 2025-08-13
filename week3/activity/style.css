@@ -1,0 +1,102 @@
+
+body{
+    background-color:#16365d;
+    background-size: cover;
+    font-family: "Arial";
+
+}
+h1{
+    color: white;
+    
+}
+.h1{
+    color: white;
+    padding-left: 92%;
+}
+
+p{
+    color:white;
+}
+.p1{
+    color: yellow;
+    text-decoration: underline;
+}
+
+h2{
+   
+}
+li{
+    color: white;
+}
+.tbl{
+    color:red;
+    font-style: italic;
+}
+.ftrs{
+    color: rgb(255, 0, 225);
+    font-weight: bold;
+}
+.doc{
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.med{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+.sel{
+    color: blue;
+    font-weight: bold;
+
+}
+.qui{
+    color: rgb(9, 255, 0);
+    font-weight: bold;
+}
+.for{
+    background-color:black ;
+    width: 400px;
+    padding-bottom: 25px;
+    border-top: 1px solid red;
+    border-left: 1px solid red;
+}
+.pg{
+    padding-left: 89%;
+}
+.dir{
+    color:blue;
+}
+.mid{
+    color: white;
+    text-align: center;
+}
+.pl{
+    padding-right:;
+}
+.th{
+    color: red;
+    font-weight: bold;
+}
+.inc{
+    background-color: rgb(4, 255, 0);
+    color: black;
+    font-weight: bold;
+}
+.c{
+    color: rgb(1, 255, 1);
+}
+.gal{
+    color: yellow;
+    text-decoration:underline ;
+}
+.o{
+    background-color: red;
+}
+.m{
+    background-color: black;
+    border-left: 1px solid red;
+}
+
+
