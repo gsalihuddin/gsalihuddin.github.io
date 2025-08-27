@@ -1,0 +1,32 @@
+    *{
+          font-family: "Roboto", sans-serif;
+
+    }
+
+.card{
+    border: 1px solid black;
+    border-radius:20px ;
+    padding: 20px;
+    box-shadow: 1px 1px 1px 1px gray;
+    margin-right: 20px;
+    justify-items: center;
+}
+.header{
+    display:flex;
+}
+
+.wifi,.bedroom,.bathroom,.squarefoot{
+    margin-right: 10px;
+    align-items: center;
+    display:flex;
+    padding:10px;
+    gap:15px
+}
+.wifi:hover,.bedroom:hover,.bathroom:hover,.squarefoot:hover{
+    background-color: rgb(14, 14, 182);
+    scale:1;
+    transition: .3s ease;
+    border-radius:15px ;
+    color: white;
+
+}
